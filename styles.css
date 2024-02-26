@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+.Inital state{
+}
+	h1{
+	background-color: black;
+	front-col0r: white;
+	border-radius: 5px;
+	border: none;
+	buttom-type: submit;
+}
+.Hover State{
+	background-color: yellow;
+	front-color: black;
+	border-radius: 30px;
+}
